@@ -1,0 +1,4 @@
+Welcome to VBZelin's Code Project!
+This is a example of showing how to read data from txt file.
+It's very convinient and easy.
+Hope you enjoy it and use it in your code.
